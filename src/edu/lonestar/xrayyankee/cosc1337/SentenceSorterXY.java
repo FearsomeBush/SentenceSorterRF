@@ -1,5 +1,5 @@
-/**
- * 
+/*
+ * © 2016 Lone Star College System 
  */
 package edu.lonestar.xrayyankee.cosc1337;
 
