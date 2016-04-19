@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
  * This class only has static methods and fields to support main()'s purpose.
  */
 public class SentenceSorterXY {
-   /** constant used in retular message dialogs */
+   /** constant used in regular message dialogs */
    private static final String TITLE = "SentenceSorterXY";
    /** constant used in error message dialogs */
    private static final String ERROR_TITLE = "SentenceSorterXY : Error";
